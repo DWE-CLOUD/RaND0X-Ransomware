@@ -1,0 +1,49 @@
+**********************************************************************************************************************************************************************
+
+                                                          WHAT IS  RANSOMEWARE ( BY KASPERKSY )
+                                                          
+**********************************************************************************************************************************************************************
+
+
+
+Ransomware poses a threat to you and your device, but what makes this form of malware so special? The word "ransom" tells you everything you need to know about this pest. Ransomware is extortion software that can lock your computer and then demand a ransom for its release.
+
+In most cases, ransomware infection occurs as follows. The malware first gains access to the device. Depending on the type of ransomware, either the entire operating system or individual files are encrypted. A ransom is then demanded from the victim. If you want to minimize the risk of a ransomware attack, you should rely on high-quality ransomware protection software.
+Ransomware: part of the malware family
+
+Malware is a portmanteau of the words "malicious" and "software". The term malware therefore covers all malicious software that can be dangerous to your computer. This includes viruses and Trojans.
+How to detect ransomware and protect yourself from it
+
+When it comes to protecting against ransomware, prevention is better than cure. To achieve this, a watchful eye and the right security software are crucial. Vulnerability scans can also help you to find intruders in your system. First, it's important to make sure your computer is not an ideal target for ransomware. Device software should always be kept up to date in order to benefit from the latest security patches. In addition, careful action, especially with regard to rogue websites and email attachments, is vital. But even the best preventive measures can fail, making it all the more essential to have a contingency plan. In the case of ransomware, a contingency plan consists of having a backup of your data. To learn how to create a backup and what additional measures you can put in place to protect your device, read the article Ransomware protection: how to keep your data safe in 2021.
+Fighting encryption Trojans – you can do it!
+
+The most common ransomware infection routes include visiting malicious websites, downloading a malicious attachment or via unwanted add-ons during downloads. A single careless moment is enough to trigger to a ransomware attack. Since malware is designed to remain undetected for as long as possible, it is difficult to identify an infection. A ransomware attack is most likely to be detected by security software.
+
+Obviously, changes to file extensions, increased CPU activity and other dubious activity on your computer may indicate an infection. When removing ransomware, there are basically three options available to you. The first is to pay the ransom, which is definitely not recommended. It is therefore best to try to remove the ransomware from your computer. If this is not possible, only one step remains: you will need to reset your computer to factory settings.
+What forms of ransomware are there and what does that mean for you?
+
+As mentioned above, the threat posed by ransomware depends on the variant of the virus. The first thing to consider is that there are two main categories of ransomware: locker ransomware and crypto ransomware. These can be distinguished as follows:
+
+    Locker ransomware – basic computer functions are affected
+    Crypto ransomware – individual files are encrypted
+
+The type of malware also makes a significant difference when it comes to identifying and dealing with the ransomware. Within the two main categories, distinctions are made between numerous additional types of ransomware. These include, for example, Locky, WannaCry, and Bad Rabbit.
+History of ransomware
+
+Blackmailing computer users in this way is not a 21st century invention. As early as 1989, a primitive pioneer of ransomware was used. The first concrete cases of ransomware were reported in Russia in 2005. Since then, ransomware has spread all over the world, with new types continuing to prove successful. In 2011, a dramatic increase in ransomware attacks was observed. In the course of further attacks, manufacturers of antivirus software have increasingly focused their virus scanners on ransomware, especially since 2016.
+
+Regional differences can often be seen in the various ransomware attacks. For example:
+
+    Incorrect messages about unlicensed applications:
+
+In some countries, Trojans notify the victim that unlicensed software is installed on their computer. The message then prompts the user to make a payment.
+
+    False claims about illegal content:
+
+In countries where illegal software downloads are common practice, this approach is not particularly successful for cybercriminals. Instead, ransomware messages claim that they are from law enforcement agencies and that child pornography or other illegal content has been found on the victim's computer. The message also contains a demand for a penalty fee to be paid.
+The largest ransomware attack
+
+One of the largest and most serious ransomware attacks took place in the spring of 2017 and was called WannaCry. In the course of the attack, approximately 200,000 victims from roughly 150 countries were asked to pay a ransom in Bitcoin.
+Conclusion
+
+Ransomware in all its forms and variants poses a significant threat both to private users and companies. This makes it all the more important to keep an eye on the threat it poses and to be prepared for all eventualities. It is therefore essential to learn about ransomware, to be highly conscious of how you use devices, and to install the best security software. With our informative blog posts and award-winning security software, Kaspersky is here to help.
