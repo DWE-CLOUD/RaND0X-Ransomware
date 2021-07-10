@@ -137,6 +137,6 @@ if input_1==1:
             print('THIS IS A PUBLIC VERSION , THE DEADLY RANSOMWARE IS WITH OWNER')
             print("email to : dwecloud@gmail.com to get the full  version")
         elif n_d==1:
-
+            print("connecting")
 else:
     print("bye")
