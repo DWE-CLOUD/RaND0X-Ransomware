@@ -1,6 +1,7 @@
 import time
 import os
 import hashlib
+from tkinter import *
 print("what do you wanna create ? (payload : 1 or execute : 2 ):  ",end='')
 input_1=int(input(""))
 if input_1==1:
@@ -117,7 +118,7 @@ if input_1==1:
                 print("Privkey: " + getWif(randomBytes))
                 print("")
                 print('*'*100)
-                t_o_1=getPublicKey(randomBytes)
+                t_o_1 = getPublicKey(randomBytes)
         elif t_o==1:
             t_o_1=input("Please enter your own BTC address : ")
             print("Is this right [1 : TO CONFIRM] [2: To Re-enter]: ",t_o_1,end='')
@@ -137,6 +138,14 @@ if input_1==1:
             print('THIS IS A PUBLIC VERSION , THE DEADLY RANSOMWARE IS WITH OWNER')
             print("email to : dwecloud@gmail.com to get the full  version")
         elif n_d==1:
-            print("connecting")
+            print("Please wait while we create your own ransomware")
+            window = Tk()
+            btn = Button(window, text="Click to download file", fg='blue')
+            btn.place(x=80, y=100)
+            lbl = Label(window, text="Hey , Your ransomware is made ... This ransomware is made using python and the creator of this project is Team DWE CLOUD", fg='red', font=("Helvetica", 14))
+            lbl.place(x=60, y=50)
+            window.title('Ransomware Creation')
+            window.geometry("300x200+10+10")
+            window.mainloop()
 else:
     print("bye")
